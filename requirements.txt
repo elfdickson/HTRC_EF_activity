@@ -2,4 +2,3 @@ htrc-feature-reader
 matplotlib
 numpy
 pandas
-glob
