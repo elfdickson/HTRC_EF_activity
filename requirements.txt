@@ -1,1 +1,6 @@
-﻿htrc-featuresmatplotlibmatplotlib.pyplotosnumpypandas
+﻿htrc-feature-reader
+matplotlib
+matplotlib.pyplot
+os
+numpy
+pandas
