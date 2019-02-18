@@ -1,5 +1,4 @@
-﻿htrc-feature-reader
+htrc-feature-reader
 matplotlib
-os
 numpy
 pandas
