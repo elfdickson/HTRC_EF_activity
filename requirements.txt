@@ -2,3 +2,4 @@ htrc-feature-reader
 matplotlib
 numpy
 pandas
+nltk
