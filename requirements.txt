@@ -1,6 +1,5 @@
 ﻿htrc-feature-reader
 matplotlib
-matplotlib.pyplot
 os
 numpy
 pandas
